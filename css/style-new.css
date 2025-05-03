@@ -368,7 +368,6 @@ a:hover{text-decoration: none;}
 @media(max-width:768px){
 .treatment_all_comm_div .video-container{width:100%;height:42vh;overflow:hidden;position:relative}
 }
-
 /*==========================================*/
 /* Section css*/
 /*==========================================*/
@@ -381,7 +380,6 @@ a:hover{text-decoration: none;}
 /* Respiratory Video Section css*/
 /*==========================================*/
 .What_section_respiratory {margin-top: 50px}
-/*.What_section_respiratory a img{
-  max-width: 538px;
-  width: 538px;
-}*/
+@media (max-width:600px){
+  .What_section_respiratory {margin-top: 30px}
+}
