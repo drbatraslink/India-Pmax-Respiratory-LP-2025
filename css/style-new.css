@@ -151,26 +151,10 @@ a:hover{text-decoration: none;}
 .treatment_all_comm_div.blue_icon_box_section p{width:85%}
 .treatment_all_comm_div.blue_icon_box_section p span{font-size:18px!important;font-weight:600}
 }
-/*=====================================================================*/
-/* icon with Background section css*/
-/*=====================================================================*/
-.treatment_all_comm_div.icon_with_blue_patch_bg_section{margin-top:40px}
-.treatment_all_comm_div.icon_with_blue_patch_bg_section .icon_box_why{width:56px;height:56px;padding:10px;margin-right:12px;background-color:#0c4679;border-radius:6px}
-.treatment_all_comm_div.icon_with_blue_patch_bg_section .content_box_why_pcos p{width:85%;line-height:normal;font-size:18px!important;font-weight:300;line-height:normal;margin-bottom:0}
-.treatment_all_comm_div.icon_with_blue_patch_bg_section .content_box_why_pcos p span{font-size:24px!important;font-weight:600}
-.treatment_all_comm_div.icon_with_blue_patch_bg_section .content_box_why_pcos{display:inline-flex;align-items:start}
-@media (max-width:1680px){
-.treatment_all_comm_div.icon_with_blue_patch_bg_section .content_box_why_pcos p,.treatment_all_comm_div.icon_with_blue_patch_bg_section p{font-size:16px!important}
-}
-@media (max-width:600px){
-.treatment_all_comm_div.icon_with_blue_patch_bg_section{margin-top:30px}
-.treatment_all_comm_div.icon_with_blue_patch_bg_section .content_box_why_pcos p{width:85%}
-.treatment_all_comm_div.icon_with_blue_patch_bg_section .content_box_why_pcos p span{font-size:18px!important;font-weight:600}
-}
 /*==========================================*/
 /* Medicen Alopecia section css*/
 /*==========================================*/
-.treatment_all_comm_div.icon_without_bg_section{margin-top:40px}
+.treatment_all_comm_div.icon_without_bg_section{margin-top:50px}
 .treatment_all_comm_div.icon_without_bg_section .icon_box_why{width:56px;height:56px;padding:5px 0;margin-right:12px;background-color:#fff;border-radius:6px;text-align:center}
 .treatment_all_comm_div.icon_without_bg_section h3{font-size: 24px; color: #000000; font-weight: 600}
 .treatment_all_comm_div.icon_without_bg_section p{line-height:normal;font-size:18px!important;font-weight:300;line-height:normal;margin-bottom:0}
@@ -226,10 +210,34 @@ a:hover{text-decoration: none;}
 .treatment_all_comm_div.lets_talk_sec .talk_about_btn{margin:0 auto!important;width:90%;margin-bottom:0;line-height:normal;color:#fff;border-radius:50px;font-weight:600;font-size:18px!important;border:none;background-color:#0c4679!important;box-shadow:0 4px 15px rgb(175 173 173 / 18%)}
 .treatment_all_comm_div.lets_talk_sec{margin-top:30px}
 }
+
+
+
+
+
+
+
+/*=====================================================================*/
+/* icon with Background section css*/
+/*=====================================================================*/
+/*.treatment_all_comm_div.icon_with_blue_patch_bg_section{margin-top:40px}
+.treatment_all_comm_div.icon_with_blue_patch_bg_section .icon_box_why{width:56px;height:56px;padding:10px;margin-right:12px;background-color:#0c4679;border-radius:6px}
+.treatment_all_comm_div.icon_with_blue_patch_bg_section .content_box_why_pcos p{width:85%;line-height:normal;font-size:18px!important;font-weight:300;line-height:normal;margin-bottom:0}
+.treatment_all_comm_div.icon_with_blue_patch_bg_section .content_box_why_pcos p span{font-size:24px!important;font-weight:600}
+.treatment_all_comm_div.icon_with_blue_patch_bg_section .content_box_why_pcos{display:inline-flex;align-items:start}
+@media (max-width:1680px){
+.treatment_all_comm_div.icon_with_blue_patch_bg_section .content_box_why_pcos p,.treatment_all_comm_div.icon_with_blue_patch_bg_section p{font-size:16px!important}
+}
+@media (max-width:600px){
+.treatment_all_comm_div.icon_with_blue_patch_bg_section{margin-top:30px}
+.treatment_all_comm_div.icon_with_blue_patch_bg_section .content_box_why_pcos p{width:85%}
+.treatment_all_comm_div.icon_with_blue_patch_bg_section .content_box_why_pcos p span{font-size:18px!important;font-weight:600}
+}*/
+
 /*==========================================*/
 /* Our Process css*/
 /*==========================================*/
-.process_slider_sec{margin-bottom:60px}
+/*.process_slider_sec{margin-bottom:60px}
 @media (max-width:600px){
 .process_slider_sec{margin-bottom:40px}
 }
@@ -257,7 +265,38 @@ a:hover{text-decoration: none;}
 }
 @media (max-width:360px){
 .our_process_box{height:420px}
+}*/
+
+/*====================================================*/
+/* Treatment css*/
+/*====================================================*/
+/*.treatment_all_comm_div.advance_skin_bg{margin-bottom:0px;padding-top:50px;padding-bottom:60px}
+@media screen and (max-width:600px){
+.treatment_all_comm_div.advance_skin_bg{margin-bottom:0px;padding-top:40px;padding-bottom:10px}
 }
+.treatment_all_comm_div .advance_main_heading{font-size:21px;font-weight:600 ;margin-bottom:5px; color: #000000;}
+.treatment_all_comm_div .advance_main_subheading{font-size:18px;font-weight:600 ; color: #000000}
+.treatment_all_comm_div .advance_list_list li{font-size:16px;padding:10px 5px;color:#212121}
+.treatment_all_comm_div .advance_list_list{list-style-image:url('../images/list-style.webp');margin-left:0;padding-left:23px}
+.treatment_all_comm_div .vl-icon-line{border-left:1px solid #554a46;height:125px;position:absolute;left:3%;margin-left:-3px;bottom:65px}
+.treatment_all_comm_div #advance_skin_slider.owl-carousel .owl-item img{border-radius:16px}
+.treatment_all_comm_div #advance_skin_slider .owl-next,#advance_skin_slider .owl-prev{position:absolute;top:-5px;height:100%}
+.treatment_all_comm_div #advance_skin_slider .owl-prev{left:-15px;background-color:transparent!important}
+.treatment_all_comm_div #advance_skin_slider .owl-next{right:-15px;background-color:transparent!important}
+@media (max-width:1024px){
+.treatment_all_comm_div .vl-icon-line{border-left:1px solid #554a46;height:125px;position:absolute;left:3.5%;margin-left:-3px;bottom:38px}
+}
+@media screen and (max-width:992px){
+.treatment_all_comm_div .advance_main_heading{font-size:18px;}
+.treatment_all_comm_div .advance_main_subheading{font-size:16px;font-weight:600;margin-bottom:0}
+.treatment_all_comm_div .vl-icon-line{border-left:0;display:none}
+.treatment_all_comm_div .advance_list_list{margin-left:0;padding-left:25px}
+.treatment_all_comm_div .advance_list_list li{font-size:16px;padding:5px 2px}
+}
+@media screen and (max-width:992px){
+.treatment_all_comm_div #advance_skin_slider .owl-next,.treatment_all_comm_div #advance_skin_slider .owl-prev{position:absolute;top:-210px;height:100%}
+}*/
+
 /*==========================================*/
 /* Google css*/
 /*==========================================*/
@@ -349,35 +388,7 @@ a:hover{text-decoration: none;}
 .open-btn-cls-new:hover{font-weight:600;text-decoration:none;color:#fff}
 .chat-popup{width:92%;display:none;position:fixed;bottom:0;left:15px;right:15px;z-index:9}
 }
-/*====================================================*/
-/* Treatment css*/
-/*====================================================*/
-.treatment_all_comm_div.advance_skin_bg{margin-bottom:0px;padding-top:50px;padding-bottom:60px}
-@media screen and (max-width:600px){
-.treatment_all_comm_div.advance_skin_bg{margin-bottom:0px;padding-top:40px;padding-bottom:10px}
-}
-.treatment_all_comm_div .advance_main_heading{font-size:21px;font-weight:600 ;margin-bottom:5px; color: #000000;}
-.treatment_all_comm_div .advance_main_subheading{font-size:18px;font-weight:600 ; color: #000000}
-.treatment_all_comm_div .advance_list_list li{font-size:16px;padding:10px 5px;color:#212121}
-.treatment_all_comm_div .advance_list_list{list-style-image:url('../images/list-style.webp');margin-left:0;padding-left:23px}
-.treatment_all_comm_div .vl-icon-line{border-left:1px solid #554a46;height:125px;position:absolute;left:3%;margin-left:-3px;bottom:65px}
-.treatment_all_comm_div #advance_skin_slider.owl-carousel .owl-item img{border-radius:16px}
-.treatment_all_comm_div #advance_skin_slider .owl-next,#advance_skin_slider .owl-prev{position:absolute;top:-5px;height:100%}
-.treatment_all_comm_div #advance_skin_slider .owl-prev{left:-15px;background-color:transparent!important}
-.treatment_all_comm_div #advance_skin_slider .owl-next{right:-15px;background-color:transparent!important}
-@media (max-width:1024px){
-.treatment_all_comm_div .vl-icon-line{border-left:1px solid #554a46;height:125px;position:absolute;left:3.5%;margin-left:-3px;bottom:38px}
-}
-@media screen and (max-width:992px){
-.treatment_all_comm_div .advance_main_heading{font-size:18px;}
-.treatment_all_comm_div .advance_main_subheading{font-size:16px;font-weight:600;margin-bottom:0}
-.treatment_all_comm_div .vl-icon-line{border-left:0;display:none}
-.treatment_all_comm_div .advance_list_list{margin-left:0;padding-left:25px}
-.treatment_all_comm_div .advance_list_list li{font-size:16px;padding:5px 2px}
-}
-@media screen and (max-width:992px){
-.treatment_all_comm_div #advance_skin_slider .owl-next,.treatment_all_comm_div #advance_skin_slider .owl-prev{position:absolute;top:-210px;height:100%}
-}
+
 /*==========================================*/
 /* back to top css*/
 /*==========================================*/
@@ -443,13 +454,7 @@ a:hover{text-decoration: none;}
 @media(max-width:768px){
 .treatment_all_comm_div .video-container{width:100%;height:42vh;overflow:hidden;position:relative}
 }
-/*==========================================*/
-/* What section css*/
-/*==========================================*/
-.treatment_all_comm_div.what_treatment_section{margin-top:50px}
-@media (max-width:600px){
-.treatment_all_comm_div.what_treatment_section{margin-top:30px}
-}
+
 /*==========================================*/
 /* Section css*/
 /*==========================================*/
@@ -462,7 +467,7 @@ a:hover{text-decoration: none;}
 /* Respiratory Video Section css*/
 /*==========================================*/
 .What_section_respiratory {margin-top: 50px}
-.What_section_respiratory .popup-youtube img{
+/*.What_section_respiratory a img{
   max-width: 538px;
   width: 538px;
-}
+}*/
