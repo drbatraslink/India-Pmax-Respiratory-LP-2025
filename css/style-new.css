@@ -458,3 +458,10 @@ a:hover{text-decoration: none;}
 .treatment_all_comm_div .your_privacy_matter_section{margin-top:0px}
 }
 .btn_book_appoinment_box{position:fixed;z-index:8;bottom:0}
+/*==========================================*/
+/* Respiratory Video Section css*/
+/*==========================================*/
+.What_section_respiratory .popup-youtube img{
+  width: 100%;
+  max-width: 538px;
+}
