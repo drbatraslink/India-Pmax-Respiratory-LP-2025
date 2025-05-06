@@ -5,6 +5,7 @@ body{font-family:Inter,sans-serif;font-size:16px;font-weight:400!important;color
 .form-control{border:1px solid #656565}
 .select2-container{z-index:9999}
 .treatment_all_comm_div p{font-size:18px;color:#000000; font-weight: 300;}
+.treatment_all_comm_div p strong{font-weight: 600}
 @media (max-width:1440px){
 .treatment_all_comm_div p{font-size:16px;color:#000000}
 }
@@ -390,7 +391,7 @@ a:hover{text-decoration: none;}
 .treatment_all_comm_div.icon_with_blue_patch_bg_section{margin-top:50px}
 .treatment_all_comm_div.icon_with_blue_patch_bg_section .icon_box_why{width:56px;height:56px;padding:10px;margin-right:12px;background-color:#0c4679;border-radius:6px}
 .treatment_all_comm_div.icon_with_blue_patch_bg_section .content_box_why_pcos p{width:85%;line-height:normal;font-size:18px!important;font-weight:300;line-height:normal;margin-bottom:0}
-.treatment_all_comm_div.icon_with_blue_patch_bg_section .content_box_why_pcos p span{font-size:24px!important;font-weight:600}
+.treatment_all_comm_div.icon_with_blue_patch_bg_section .content_box_why_pcos p span{font-size:24px!important;font-weight:600; margin-bottom: 5px}
 .treatment_all_comm_div.icon_with_blue_patch_bg_section .content_box_why_pcos{display:inline-flex;align-items:start}
 @media (max-width:1680px){
 .treatment_all_comm_div.icon_with_blue_patch_bg_section .content_box_why_pcos p,.treatment_all_comm_div.icon_with_blue_patch_bg_section p{font-size:16px!important}
